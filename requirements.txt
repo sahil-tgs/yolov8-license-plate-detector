@@ -1,0 +1,11 @@
+cv2
+shutil
+numpy 
+pandas 
+glob 
+matplotlib
+sklearn
+torch
+ultralytics
+ipywidgets
+pytesseract
